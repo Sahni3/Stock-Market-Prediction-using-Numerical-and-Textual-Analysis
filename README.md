@@ -10,5 +10,7 @@ Task 7: Stock Market Prediction using Numerical and Textual Analysis
 ● Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model ● You are free to select a different stock to analyze and news dataset as well while not changing the objective of the task.
 
 ● Here is the dataset :
+
     Download historical stock prices from finance.yahoo.com
+    
     Download textual (news) data from https://bit.ly/36fFPI6
